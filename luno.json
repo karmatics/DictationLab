@@ -1,0 +1,16 @@
+{
+  "name": "DictationLab",
+  "version": "0.1.0",
+  "description": "Lattice-based dictation: spans, choice points, aging, and a model-first view surface",
+  "type": "luno-web-app",
+  "mainClass": "DictationLab",
+  "entrypoint": { "file": "DictationLab.js", "class": "DictationLab", "method": "run" },
+  "main": ["DictationLab.js"],
+  "library": [
+    "DomBasics.js",
+    "DictationLattice.js",
+    "DictationPolicy.js",
+    "DictationEngineAdapter.js",
+    "LatticeSurface.js"
+  ]
+}
