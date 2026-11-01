@@ -20,5 +20,8 @@
     "DictationEngineAdapter.js",
     "DictationWidget.js"
   ],
-  "styles": []
+  "styles": [],
+  "processedCountSinceCheckpoint": 0,
+  "lastCheckpointTime": "2026-11-01T06:33:02.758Z",
+  "pendingCheckpointDescription": "Clean working tree"
 }
